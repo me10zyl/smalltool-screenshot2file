@@ -70,7 +70,7 @@ namespace sreenshot2file___
             {
                 Image image = (Image) Clipboard.GetDataObject().GetData(DataFormats.Bitmap);
                 string timestamp = DateTime.Now.ToString("-yyyy-MM-dd-HH-mm-ss");
-                var screenshot = path + "\\screenshot" + timestamp + ".jpeg";
+                var screenshot = path + "\\screenshot" + timestamp + ".png";
                 Console.WriteLine("Save to file " + screenshot);
                 image.Save(screenshot, System.Drawing.Imaging.ImageFormat.Jpeg);
             }
