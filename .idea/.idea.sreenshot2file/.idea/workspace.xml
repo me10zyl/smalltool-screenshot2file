@@ -16,9 +16,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17c06a8e-2e7b-4abc-8487-ea53a4c29de1" name="Default Changelist" comment="初始化提交">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.sreenshot2file/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.sreenshot2file/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="17c06a8e-2e7b-4abc-8487-ea53a4c29de1" name="Default Changelist" comment="添加readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +135,7 @@
       <updated>1600261599693</updated>
       <workItem from="1600261610188" duration="87000" />
       <workItem from="1600261761341" duration="10213000" />
-      <workItem from="1600393397783" duration="5749000" />
+      <workItem from="1600393397783" duration="6117000" />
     </task>
     <task id="LOCAL-00001" summary="初始化提交">
       <created>1600398032870</created>
@@ -146,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600398032870</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加readme">
+      <created>1600399375374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600399375374</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +172,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="初始化提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化提交" />
+    <MESSAGE value="添加readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="210" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600345799175">
@@ -274,10 +280,10 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="461" y="199" key="SettingsEditor/-1920.21.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1600398282539" />
-    <state x="552" y="274" key="Vcs.Push.Dialog.v2" timestamp="1600398034677">
+    <state x="552" y="274" key="Vcs.Push.Dialog.v2" timestamp="1600399376637">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="552" y="274" key="Vcs.Push.Dialog.v2/-1920.21.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1600398034677" />
+    <state x="552" y="274" key="Vcs.Push.Dialog.v2/-1920.21.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1600399376637" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
